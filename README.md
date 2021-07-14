@@ -1,7 +1,7 @@
 # Medical-Image
 
 To view medical images that are in dicom format. 
-To view click: 
+For the better visualisation, click: 
 
 https://nbviewer.jupyter.org/github/esmasert/Medical-Image/blob/main/Medical%20Images%20(CT).ipynb 
 -
