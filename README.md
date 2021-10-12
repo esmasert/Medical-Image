@@ -7,4 +7,5 @@ https://nbviewer.jupyter.org/github/esmasert/Medical-Image/blob/main/Preprocessi
 -
 
 3 Machine Learning Models by using the Heart Dataset.
-
+https://nbviewer.org/github/esmasert/Medical-Image/blob/main/HeartData.ipynb
+-
